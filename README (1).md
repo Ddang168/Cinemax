@@ -3,7 +3,7 @@
 This analysis project aims to provide insights into CineMax, a fictional movie rental company that uses the sample sakila database from MySQL. Using Power BI to model the data up to 3NF and analyze and identify trends, understand the data and make reccomendations to 
 increase rentals.
 
-![image](https://github.com/user-attachments/assets/84465fd4-915a-4e88-8ca8-ee2392a89949)
+
 
 
 Data source - I have uploaded the sample database "sakila" onto the repository or if you have MySQL already you can install it on there.
@@ -29,5 +29,5 @@ Based on the analysis I reccomend:
  - Instead of generic monthly discounts, analyze customer purchasing behavior to tailor discounts to specific customer segments or products that are underperforming.
  - Develop targeted marketing campaigns around holidays or events that align with customer interests to capitalize on seasonal trends.
 
-   https://github.com/owentsang2/CinemaxDataAnalysisProject/blob/main/CINEMAX%20DATA%20ANALYSIS%20PROJECT.pdf
+   
 
